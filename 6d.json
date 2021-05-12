@@ -281,7 +281,7 @@
         {
          "columns":16,
          "firstgid":1,
-         "image":"..\/Documents\/GitHub\/6d-TFG\/tilesets_deviant_milkian_1.png",
+         "image":"tilesets_deviant_milkian_1.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
@@ -1006,7 +1006,7 @@
         {
          "columns":8,
          "firstgid":257,
-         "image":"..\/Documents\/GitHub\/6d-TFG\/floortileset.png",
+         "image":"floortileset.png",
          "imageheight":256,
          "imagewidth":256,
          "margin":0,
@@ -1029,7 +1029,7 @@
         {
          "columns":10,
          "firstgid":321,
-         "image":"..\/Documents\/GitHub\/6d-TFG\/structures\/rc3-mullana-stars.png",
+         "image":"structures\/rc3-mullana-stars.png",
          "imageheight":320,
          "imagewidth":320,
          "margin":0,
@@ -1042,7 +1042,7 @@
         {
          "columns":16,
          "firstgid":421,
-         "image":"..\/Documents\/GitHub\/6d-TFG\/structures\/rc3-mullana-floor-wall.png",
+         "image":"structures\/rc3-mullana-floor-wall.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
@@ -1587,7 +1587,7 @@
         {
          "columns":16,
          "firstgid":677,
-         "image":"..\/Documents\/GitHub\/6d-TFG\/structures\/rc3-mullana-overlay.png",
+         "image":"structures\/rc3-mullana-overlay.png",
          "imageheight":1024,
          "imagewidth":512,
          "margin":0,
@@ -1600,7 +1600,7 @@
         {
          "columns":10,
          "firstgid":1189,
-         "image":"..\/Documents\/GitHub\/6d-TFG\/campfire.png",
+         "image":"campfire.png",
          "imageheight":64,
          "imagewidth":320,
          "margin":0,
@@ -1710,7 +1710,7 @@
         {
          "columns":18,
          "firstgid":1209,
-         "image":"..\/Documents\/GitHub\/6d-TFG\/Pipoya_CC0.png",
+         "image":"Pipoya_CC0.png",
          "imageheight":832,
          "imagewidth":576,
          "margin":0,
@@ -1723,7 +1723,7 @@
         {
          "columns":7,
          "firstgid":1677,
-         "image":"..\/Documents\/GitHub\/6d-TFG\/structures\/minideko.png",
+         "image":"structures\/minideko.png",
          "imageheight":416,
          "imagewidth":224,
          "margin":0,
